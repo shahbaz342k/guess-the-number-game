@@ -13,22 +13,14 @@ The game generates a random number between **1 and 100**, and the player must gu
 Example:
 
 ```
-https://your-app.vercel.app
+https://guess-the-number-game-mjzktlmvo-shahbaz342s-9751s-projects.vercel.app/
 ```
 
 ---
 
 ## 📸 Screenshot
 
-> Add a screenshot of your application here.
-
-Example:
-
-```
-assets/screenshot.png
-```
-
----
+![1783445095775](image/README/1783445095775.png)
 
 ## ✨ Features
 
